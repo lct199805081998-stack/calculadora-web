@@ -1,0 +1,2 @@
+# Este archivo está vacío ya que solo usamos Python estándar
+# Se incluye para compatibilidad con plataformas de despliegue
